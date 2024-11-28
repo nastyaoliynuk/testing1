@@ -1,0 +1,17 @@
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\CulcTest.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\CulcTest.pdb
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\obj\Debug\CulcTest.csproj.AssemblyReference.cache
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\obj\Debug\CulcTest.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\obj\Debug\CulcTest.csproj.Up2Date
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\obj\Debug\CulcTest.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\obj\Debug\CulcTest.pdb
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\CalcClassBr.dll
+C:\Users\Cyber\Downloads\Calculator\Calculator\CulcTest\bin\Debug\CalcClassBr.pdb
